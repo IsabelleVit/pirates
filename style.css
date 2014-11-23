@@ -1,0 +1,22 @@
+body  {
+  background: #CCC;
+  font-family:monospace;
+}
+
+div[lang="fr"]{
+  display:none
+}
+
+#commands {
+  border-top:1px solid black;
+  background: #999;
+  padding: 1em
+}
+
+#commands a {
+  font-weight: bold;
+  font-size: 1.2em
+}
+#cheats {
+  display: none
+}
